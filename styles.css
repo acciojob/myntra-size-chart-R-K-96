@@ -1,2 +1,21 @@
 
 /* Your CSS Code here. */
+table{
+	width:300px;
+	
+	color:white;
+}
+thead{
+	background-color:brown;
+	
+	}
+.row1{
+	background-color:rosybrown;
+}
+.row2{
+	background-color:wheat;
+}
+
+.row3{
+	background-color:lightblue;
+}
